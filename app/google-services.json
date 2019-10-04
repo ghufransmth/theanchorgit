@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848139619142",
+    "firebase_url": "https://sijangkar-d9d09.firebaseio.com",
+    "project_id": "sijangkar-d9d09",
+    "storage_bucket": "sijangkar-d9d09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848139619142:android:16c26a1b50744579",
+        "android_client_info": {
+          "package_name": "sijangkar.perhubungan.jatengprov.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848139619142-4mj4cs1004kub9ks1biisujapgdk4214.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sijangkar.perhubungan.jatengprov.myapplication",
+            "certificate_hash": "86add06a77f27b374749d508fe08015220ac6c54"
+          }
+        },
+        {
+          "client_id": "848139619142-pqq4qplcl50c5nns0gf6vve89ena6i3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3BRLYeimivmtruRVgnrWg_re555C4Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848139619142-pqq4qplcl50c5nns0gf6vve89ena6i3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
